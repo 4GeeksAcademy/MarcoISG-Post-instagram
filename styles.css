@@ -1,0 +1,71 @@
+body {
+    font-size: 25px;
+    font-family: "roboto";
+    padding: 0%;
+    background-color: black;
+}
+
+.head {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    }
+
+   
+.
+
+.fa-brands fa-html5 {
+    font-size:larger
+}
+
+i  {
+    font-size: 50px;
+ 
+    
+}
+
+.post-ig {
+    width: 720px;
+    height: 1080px;  
+    background-color: white;
+    margin: auto;
+    margin-top: 7%;
+    
+}
+
+
+.icons-text {
+    
+    display: flex;
+    justify-content: space-between ;
+    
+}
+.icons-left {
+    
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.head-left {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between ;
+    flex-direction: row;
+    
+}
+.titulo {
+    margin-top: 0%;
+}
+
+.texto {
+    margin: 20px;
+}
+
+.head-right {
+    margin-top: 20px;
+    margin-right: 10px;
+}
